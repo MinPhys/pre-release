@@ -1,7 +1,7 @@
-
 ---
 layout: default
 ---
+
 ![banner](https://MinPhys.github.io/pre-release/RiP_2025/assets/website_banner_RiP_25.png)
 # Research in Progress meeting 2025
 ### Edinburgh - April 9th and 10th
