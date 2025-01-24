@@ -24,7 +24,7 @@ layout: default
 
 * * *
 
-## [Research in Progress meeting 2025](./pre-release/RiP_2025.html)
+## [Research in Progress meeting 2025](./RiP_2025.html)
 ### 9th and 10th April - Edinburgh
 This year's Mineral Physics Group Research in Progress meeting will be hosted at the University of Edinburgh on 9th and 10th April 2025. 
 Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
