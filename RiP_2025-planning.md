@@ -21,3 +21,19 @@ They also provide:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12003.822113571667!2d-3.1832515463355424!3d55.92808635937041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b89b41f20779%3A0xe8ed6b0e68670eac!2sGlendale!5e0!3m2!1sen!2suk!4v1737713063761!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 * * *
+
+###Travel
+#### Air
+<a href="https://edinburghtrams.com/">Tram</a> and <a href="https://www.lothianbuses.com/">bus</a> services from Edinburgh airport towards the city centre cost ~£8, run regularly and take 30-45 minutes. Taxi services cost ~£30-£50 and can be pre-booked (e.g. <a href="https://www.citycabs.co.uk/services/airport-transfer/">City Cabs</a>).
+
+#### Rail
+National mainline services will arrive at Haymarket and Edinburgh Waverley stations, a ~4.5 hour journey from London. For times and tickets see <a href="https://www.nationalrail.co.uk/">National Rail</a>, <a href="https://www.scotrail.co.uk/">ScotRail</a> and <a href="https://www.thetrainline.com/">TheTrailine</a>.
+
+#### Coach
+Coaches offer an afforable, but slower, alternative to rail travel in the UK. <a href="https://www.edinburgh.gov.uk/buses-coaches/edinburgh-bus-station">Edinburgh bus station</a> is the arriving destination for most services. Providers include <a href="https://www.nationalexpress.com/en">National Express</a>, <a href="https://www.citylink.co.uk/">Citylink</a> and <a href="https://www.megabus.co.uk/">Megabus</a>. <a href="https://www.flixbus.co.uk/">Flixbus</a> offers services from mainland europe to the UK with connections to Edinburgh through London.
+
+#### Local
+<a href="https://www.lothianbuses.com/">Lothian Buses</a> are the bus provider for local transport in Edinburgh. At <a href="https://www.lothianbuses.com/">Lothianbuses.com</a> you can find details of routes, times and ticketing. Contactless payment is accepted at point of use.
+
+#### Travel Bursaries
+Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="www.minersoc.org/mpg-bursaries">www.minersoc.org/mpg-bursaries</a>
