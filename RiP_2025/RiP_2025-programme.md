@@ -1,7 +1,7 @@
-
 ---
 layout: default
 ---
+
 ![banner](https://MinPhys.github.io/pre-release/RiP_2025/assets/website_banner_RiP_25.png)
 # Research in Progress meeting 2025
 ### Edinburgh - April 9th and 10th
@@ -22,4 +22,4 @@ We hope to organise a group meal for attendees on the Wednesday evening.
 *  Tomas Marqueno Villanueva (Edinburgh)
 *  Viktoria Trautner (Oxford)
 
-#The meeting programme will be updated following the close of abstract submissions after 3rd March.#
+__The meeting programme will be updated following the close of abstract submissions after 3rd March.__
