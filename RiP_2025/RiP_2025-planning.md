@@ -8,7 +8,7 @@ layout: default
 
 |    |    |    |    |
 |----|----|----|----|
-| [RiP 2025](./RiP_2025/RiP_2025.html) | [Registration](./RiP_2025/RiP_2025-abstracts.html) | [Programme](./RiP_2025/RiP_2025-programme.html) | [Information](./RiP_2025/RiP_2025-planning.html) |
+| [RiP 2025](./RiP_2025.html) | [Registration](./RiP_2025-abstracts.html) | [Programme](./RiP_2025-programme.html) | [Information](./RiP_2025-planning.html) |
 
 ## Planning your visit
 * * *
