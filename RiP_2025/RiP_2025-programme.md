@@ -17,7 +17,7 @@ The meeting will begin around midday of Wednesday 9th April and conclude in the 
 We hope to organise a group meal for attendees on the Wednesday evening.
 
 ### Invited Speakers
-[//]: # (*  Dave Wallis)
+[//]: # (*  Dave Wallis (Cambridge))
 *  Guillaume Morard (CNRS)
 *  Tomas Marqueno Villanueva (Edinburgh)
 *  Viktoria Trautner (Oxford)
