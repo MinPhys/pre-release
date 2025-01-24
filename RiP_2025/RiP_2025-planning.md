@@ -44,4 +44,7 @@ Coaches offer an afforable, but slower, alternative to rail travel in the UK. <a
 <a href="https://www.lothianbuses.com/">Lothian Buses</a> are the bus provider for local transport in Edinburgh. At <a href="https://www.lothianbuses.com/">Lothianbuses.com</a> you can find details of routes, times and ticketing. Contactless payment is accepted at point of use.
 
 #### Travel Bursaries
-Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="www.minersoc.org/mpg-bursaries">www.minersoc.org/mpg-bursaries</a>
+Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="https://www.minersoc.org/mpg-bursaries/">minersoc.org/mpg-bursaries</a>.
+
+
+
