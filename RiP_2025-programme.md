@@ -16,8 +16,8 @@ We hope to organise a group meal for attendees on the Wednesday evening.
 
 ### Invited Speakers
 [//]: # (*  Dave Wallis)
-*  Guillaume Morard
-*  Tomas Marqueno Villanueva
-*  Viktoria Trautner
+*  Guillaume Morard (CNRS)
+*  Tomas Marqueno Villanueva (Edinburgh)
+*  Viktoria Trautner (Oxford)
 
 The meeting programme will be updated following the close of abstract submissions after 3rd March.
