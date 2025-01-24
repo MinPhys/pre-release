@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Research in Progress meeting 2025
+# [Research in Progress meeting 2025](./RiP_2025.html)
+* * *
 ## Planning your visit
 
 ### Venue
