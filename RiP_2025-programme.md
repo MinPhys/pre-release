@@ -1,8 +1,13 @@
 ---
 layout: default
 ---
-# [Research in Progress meeting 2025](./RiP_2025-Programme.html)
-* * *
+# Research in Progress meeting 2025
+### Edinburgh - April 9th and 10th
+
+|         |           |  |   |
+|-------------|----------------|------|------|
+| [RiP 2025](./RiP_2025.html) | [Registration](./RiP_2025-abstracts.html) | [Programme](./RiP_2025-programme.html) | [Information](./RiP_2025-planning.html) |
+ 
 ## Programme
 * * *
 
