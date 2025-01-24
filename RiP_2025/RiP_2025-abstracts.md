@@ -18,7 +18,7 @@ Registration and abstract submission is now open. Please register for the meetin
 
 Abstracts must be submitted on or before March 3rd to be considered for the meeting program.
 
-## Meeting Code of Conduct
+### Meeting Code of Conduct
 
 The Research in Progress meetings hosted by the Mineral Physics Special Interest Group are open to everyone with an interest in mineral physics science. The group is dedicated to creating a safe and welcoming environment that encourages productive scientific exchanges. All meeting participants, including session chairs, speakers, poster presenters, and other attendees, must adhere to the following code of conduct:
 
