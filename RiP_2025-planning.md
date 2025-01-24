@@ -20,9 +20,10 @@ They also provide:
 *   Free wireless internet access
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12003.822113571667!2d-3.1832515463355424!3d55.92808635937041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b89b41f20779%3A0xe8ed6b0e68670eac!2sGlendale!5e0!3m2!1sen!2suk!4v1737713063761!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 * * *
 
-###Travel
+### Travel
 #### Air
 <a href="https://edinburghtrams.com/">Tram</a> and <a href="https://www.lothianbuses.com/">bus</a> services from Edinburgh airport towards the city centre cost ~£8, run regularly and take 30-45 minutes. Taxi services cost ~£30-£50 and can be pre-booked (e.g. <a href="https://www.citycabs.co.uk/services/airport-transfer/">City Cabs</a>).
 
