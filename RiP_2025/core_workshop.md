@@ -5,10 +5,6 @@ layout: default
 # Workshop on Crystallising Liquid Core of the Earth
 ### Edinburgh - April 8th and 9th
 
-|    |    |    |    |    |
-|----|----|----|----|----|
-| [RiP 2025](./RiP_2025.html) | [Registration](./RiP_2025-abstracts.html) | [Programme](./RiP_2025-programme.html) | [Information](./RiP_2025-planning.html) | [Core Workshop](./core-workshop.html) |
-
 * * *
 
 This meeting will start at __1pm 8th April__ and conclude at __12pm 9th April__ and precedes the Mineral Physics Groups's Research in Progress Meeting.
