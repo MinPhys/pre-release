@@ -7,11 +7,11 @@ layout: default
 
 * * *
 
-This meeting will start at __1pm 8th April__ and conclude at __12pm 9th April__ and precedes the Mineral Physics Groups's Research in Progress Meeting.
+This meeting will start at __1pm 8th April__ and conclude at __12pm 9th April__ and precedes the [Mineral Physics Groups's Research in Progress Meeting](./RiP_2025.html).
 
 The venue is the Larch lecture theatre of The Nucleus Building - Thomas Bayes Rd, Edinburgh EH9 3FG. Additional information on travel and accomodation can be found on the [MPG RiP 2025 information page](./RiP_2025-planning.html).
 
-Registration for this workshop is free. Attendees must register <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYbw2T4DoKKxOjaEIhHhi9cpUN1dTMVZYNTc4UlVaMjlCOVJJNVZBVTBYMy4u">__<ins>here</ins>__</a>
+Registration for this workshop is free. Attendees must register __<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYbw2T4DoKKxOjaEIhHhi9cpUN1dTMVZYNTc4UlVaMjlCOVJJNVZBVTBYMy4u"><ins>here</ins></a>__
  for a name badge and catering purposes.
 
 Oral presentation is by invitation only. Poster presentations can be requested on registration.
