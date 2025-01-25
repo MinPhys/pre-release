@@ -30,9 +30,7 @@ They also provide:
 *   Complimentary full Scottish breakfast
 *   Free private car parking
 *   Free wireless internet access
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.301453414863!2d-3.166048751359639!3d55.927422088979796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b89b41f20779%3A0xe8ed6b0e68670eac!2sGlendale!5e0!3m2!1sen!2suk!4v1737817245765!5m2!1sen!2suk" width="500" height="375" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10778.899298284648!2d-3.188196712310451!3d55.935712267906005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b89b41f20779%3A0xe8ed6b0e68670eac!2sGlendale!5e0!3m2!1sen!2suk!4v1737817488007!5m2!1sen!2suk" width="500" height="375" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 * * *
 
