@@ -7,7 +7,7 @@ layout: default
 
 * * *
 
-This workshop delves into the critical role of Earth’s core in driving planetary processes, including generating magnetic fields through the geodynamo and influencing tectonic activity. We will explore the crystallization and demixing of Fe-Si-O liquids, key to understanding the core’s composition, evolution, and dynamics. High-pressure, high-temperature experiments and calculations inform models which examine how light elements like silicon and oxygen affect the core’s cooling, chemical differentiation, and magnetic field history. With these tools we will illuminate the core’s formation, its influence on mantle convection, and its fundamental role in shaping Earth’s environment and sustaining life.
+This workshop delves into the critical role of Earth’s core in driving planetary processes, including generating magnetic fields through the geodynamo and influencing tectonic activity. We will explore the crystallization and/or demixing of Fe-alloy liquids, how they would power the geodynamo, and what palaeomagnetic evidence would tell us about it. As such the workshop aims to bring researchers in different fields together and make multidisciplinary discussions on the core processes to understand where we stand. With this unique opportunity, we will illuminate how the Earth generates magnetic fields and its fundamental role in shaping the planet’s environment and sustaining life.
 
 * * *
 
@@ -29,7 +29,6 @@ Oral presentation is by invitation only. Poster presentations can be requested o
 *  Andry Biggin (U. Liverpool)
 *  Kathy Whaler (U. Edinburgh)
 *  Wyn Williams (U. Edinburgh)
-*  Tetsuya Komabayashi (U. Edinburgh)
 
 This meeting is supported by the NERC grant NE/W005832/1 "The Crystallisation Sequence of Earth's Core".
 
