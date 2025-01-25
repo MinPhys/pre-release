@@ -7,7 +7,7 @@ layout: default
 
 * * *
 
-This meeting will start at __1pm 8th April__ and conclude at __12pm 9th April__ and precedes the [Mineral Physics Groups's Research in Progress Meeting](./RiP_2025.html).
+This meeting will start at __1pm 8th April__ and conclude at __12pm 9th April__ and precedes the [Mineral Physics Groups's Research in Progress meeting](./RiP_2025.html).
 
 The venue is the Larch lecture theatre of The Nucleus Building - Thomas Bayes Rd, Edinburgh EH9 3FG. Additional information on travel and accomodation can be found on the [MPG RiP 2025 information page](./RiP_2025-planning.html).
 
